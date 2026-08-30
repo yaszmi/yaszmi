@@ -10,9 +10,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=00F0FF&style=for-the-badge&label=PROFILE+SCANS)
+![Profile Views](https://komarev.com/ghpvc/?username=yaszmi&color=00F0FF&style=for-the-badge&label=PROFILE+SCANS)
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=for-the-badge&labelColor=0a0a0a)
-![Location](https://img.shields.io/badge/LOCATION-EARTH%20%F0%9F%8C%8D-8A2BE2?style=for-the-badge&labelColor=0a0a0a)
+![Location](https://img.shields.io/badge/LOCATION-MOON%20%F0%9F%8C%8D-8A2BE2?style=for-the-badge&labelColor=0a0a0a)
 
 </div>
 
