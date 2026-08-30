@@ -130,16 +130,6 @@ root@dev-core:~$ _
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
 
-<!-- ============ GITHUB STATS ============ -->
-## `<` MÉTRICAS_DO_SISTEMA `/>`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yaszmi&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=8A2BE2&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaszmi&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&langs_count=8" />
-
-<br/>
-
 <!-- ============ TROPHIES ============ -->
 ## `<` CONQUISTAS_DESBLOQUEADAS `/>`
 
