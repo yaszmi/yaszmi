@@ -10,7 +10,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yaszmi&color=00F0FF&style=for-the-badge&labelColor=0a0a0a)
+![Profile Views](https://komarev.com/ghpvc/?username=yaszmi&color=00F0FF&style=for-the-badge&label=PROFILE+SCANS)
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=for-the-badge&labelColor=0a0a0a)
 ![Location](https://img.shields.io/badge/LOCATION-MOON%20%F0%9F%8C%8D-8A2BE2?style=for-the-badge&labelColor=0a0a0a)
 
@@ -61,10 +61,10 @@ sistema:
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,laravel,nestjs&theme=dark" /><br/><br/>
 
 ### 🗄️ Banco de Dados
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,supabase,firebase&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,supabase,firebase&theme=dark" /><br/><br/>
 
 ### ☁️ DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,githubactions,nginx,terraform&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=docker,aws,azure,&theme=dark" /><br/><br/>
 
 </div>
 
@@ -96,7 +96,7 @@ sistema:
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=yaszmi&repo=projeto-um&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=8A2BE2" />
 </a>
 <a href="https://github.com/yaszmi/projeto-dois">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Syaszmi&repo=projeto-dois&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=8A2BE2" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yaszmi&repo=projeto-dois&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=8A2BE2" />
 </a>
 <br/>
 <a href="https://github.com/yaszmi/projeto-tres">
