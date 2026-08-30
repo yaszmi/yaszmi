@@ -130,17 +130,6 @@ root@dev-core:~$ _
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
 
-<!-- ============ TROPHIES ============ -->
-## `<` CONQUISTAS_DESBLOQUEADAS `/>`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yaszmi&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
-
 <!-- ============ SNAKE CONTRIBUTION ============ -->
 ## `<` MAPA_DE_CONTRIBUIÇÕES `/>`
 
