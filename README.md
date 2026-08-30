@@ -27,13 +27,12 @@
 
 ```yaml
 sistema:
-  identidade: "Desenvolvedor(a) Full-Stack & Entusiasta de IA"
-  localizacao: "Setor 7 // Planeta Terra"
+  identidade: "Aspirante a Desenvolvedora Full-Stack & Entusiasta de IA"
   linguagens_faladas: ["Português-BR", "Inglês","Mandarim","Alemão", "Espanhol"]
   status_atual: "Construindo o futuro, uma linha de código por vez"
   interesses:
     - Inteligência Artificial & Machine Learning
-    - Arquitetura de Sistemas Distribuídos
+    - Cyrbersecurity | Blue Team
     - Interfaces Futuristas & UI/UX
     - Automação & Robótica de Software
   filosofia: >
@@ -58,10 +57,10 @@ sistema:
 <div align="center">
 
 ### ⚙️ Linguagens
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,go,cpp,c,csharp,php,rust&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,&theme=dark" /><br/><br/>
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,vuejs,angular,nextjs,html,css,tailwind,sass,vite&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,&theme=dark" /><br/><br/>
 
 ### 🛠️ Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,laravel,nestjs&theme=dark" /><br/><br/>
@@ -72,11 +71,6 @@ sistema:
 ### ☁️ DevOps & Cloud
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,githubactions,nginx,terraform&theme=dark" /><br/><br/>
 
-### 🤖 IA & Data
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,scikitlearn&theme=dark" />
-<img src="https://img.shields.io/badge/OpenAI-00F0FF?style=for-the-badge&logo=openai&logoColor=black"/>
-<img src="https://img.shields.io/badge/LangChain-8A2BE2?style=for-the-badge&logo=chainlink&logoColor=white"/>
-
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
@@ -86,7 +80,7 @@ sistema:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,vim,notion,vercel,npm&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,notion,vercel,&theme=dark" />
 
 <br/><br/>
 
@@ -118,8 +112,6 @@ sistema:
 </a>
 
 </div>
-
-> 💡 **Dica:** substitua `SEU_USUARIO` e os nomes dos repositórios (`projeto-um`, `projeto-dois`...) pelos seus reais. Os cards puxam dados automaticamente do GitHub.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
 
@@ -193,7 +185,7 @@ root@dev-core:~$ _
 <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-00F0FF?style=for-the-badge&logo=linkedin&logoColor=black" />
 </a>
-<a href="mailto:projetos.yasmin@gamil.com" target="_blank">
+<a href="emailto:projetos.yasmin@gamil.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://SEU_PORTFOLIO.com" target="_blank">
