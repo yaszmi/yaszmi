@@ -5,12 +5,12 @@
 
 <!-- ============ TYPING ANIMATION ============ -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&width=650&lines=%3E+Booting+neural+interface...;%3E+Loading+dev.protocols%5B*%5D;%3E+Welcome%2C+I+am+J.A.R.V.I.S-class+Dev;%3E+Full-Stack+%7C+AI+%7C+Systems+Engineer;%3E+Status%3A+ONLINE+%E2%9C%94" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&width=650&lines=%3E+Booting+neural+interface...;%3E+Loading+dev.protocols%5B*%5D;%3E+Welcome%2C+I+am+freaking-class+Dev;%3E+Full-Stack+%7C+AI+%7C+Systems+Engineer;%3E+Status%3A+ONLINE+%E2%9C%94" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yaszmi&color=00F0FF&style=for-the-badge&label=PROFILE+SCANS)
+![Profile Views](https://komarev.com/ghpvc/?username=yaszmi&color=00F0FF&style=for-the-badge&labelColor=0a0a0a)
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=for-the-badge&labelColor=0a0a0a)
 ![Location](https://img.shields.io/badge/LOCATION-MOON%20%F0%9F%8C%8D-8A2BE2?style=for-the-badge&labelColor=0a0a0a)
 
