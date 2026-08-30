@@ -140,16 +140,6 @@ root@dev-core:~$ _
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=yaszmi&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00F0FF&fire=8A2BE2&currStreakLabel=00F0FF" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yaszmi&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F0FF&line=8A2BE2&point=FFFFFF&area=true&area_color=00F0FF" width="100%"/>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
-
 <!-- ============ TROPHIES ============ -->
 ## `<` CONQUISTAS_DESBLOQUEADAS `/>`
 
