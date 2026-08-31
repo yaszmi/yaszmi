@@ -5,7 +5,7 @@
 
 <!-- ============ TYPING ANIMATION ============ -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&width=650&lines=%3E+Booting...;%3E+Loading+dev.protocols%5B*%5D;%3E+Welcome%2C+I+am+a-freaking-class+Dev;%3E+Full-Stack+%7C+AI+%7C+Systems+Engineer;%3E+Status%3A+ONLINE+%E2%9C%94" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&width=650&lines=%3E+Booting...;%3E+Loading+dev.protocols%5B*%5D;%3E+Welcome%2C+I+am+a-class+Dev;%3E+Full-Stack+%7C+AI+%7C+Systems+Engineer;%3E+Status%3A+ONLINE+%E2%9C%94" alt="Typing SVG" />
 </a>
 
 <br/>
