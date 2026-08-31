@@ -174,7 +174,7 @@ root@dev-core:~$ shutdown --sequence
 
 <br/>
 
-![Visitor Badge](https://img.shields.io/badge/dynamic/json?color=00F0FF&label=CONEX%C3%95ES%20REGISTRADAS&style=for-the-badge&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FSEU_USUARIO%2Freadme)
+![Visitor Badge](https://img.shields.io/badge/dynamic/json?color=00F0FF&label=CONEX%C3%95ES%20REGISTRADAS&style=for-the-badge&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fyaszmi%2Freadme)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
