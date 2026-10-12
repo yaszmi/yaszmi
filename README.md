@@ -28,13 +28,12 @@
 ```yaml
 sistema:
   identidade: "Aspirante a Desenvolvedora Full-Stack & Entusiasta de IA"
-  linguagens_faladas: ["Português-BR", "Inglês","Mandarim","Alemão", "Espanhol"]
+  linguagens_faladas: ["Português-BR", "Inglês","Espanhol"]
   status_atual: "Construindo o futuro, uma linha de código por vez"
   interesses:
     - Inteligência Artificial & Machine Learning
     - Cyrbersecurity | Blue Team
-    - Interfaces Futuristas & UI/UX
-    - Automação & Robótica de Software
+    - Automação & Robótica 
   filosofia: >
     "Código é a linguagem através da qual
      transformamos ideias em realidade."
@@ -52,16 +51,13 @@ sistema:
 <div align="center">
 
 ### ⚙️ Linguagens
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,&theme=dark" /><br/><br/>
-
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=js,python,java,cpp,c,&theme=dark" /><br/><br/>
 
 ### 🛠️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,laravel,nestjs&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,django,&theme=dark" /><br/><br/>
 
 ### 🗄️ Banco de Dados
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,supabase,firebase&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,firebase&theme=dark" /><br/><br/>
 
 ### ☁️ DevOps & Cloud
 <img src="https://skillicons.dev/icons?i=docker,aws,azure,&theme=dark" /><br/><br/>
@@ -75,7 +71,7 @@ sistema:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,notion,vercel,&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,notion,&theme=dark" />
 
 <br/><br/>
 
@@ -95,16 +91,6 @@ sistema:
 <a href="https://github.com/yaszmi/projeto-um">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=yaszmi&repo=projeto-um&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=8A2BE2" />
 </a>
-<a href="https://github.com/yaszmi/projeto-dois">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yaszmi&repo=projeto-dois&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=8A2BE2" />
-</a>
-<br/>
-<a href="https://github.com/yaszmi/projeto-tres">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yaszmi&repo=projeto-tres&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=8A2BE2" />
-</a>
-<a href="https://github.com/yaszmi/projeto-quatro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yaszmi&repo=projeto-quatro&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=8A2BE2" />
-</a>
 
 </div>
 
@@ -116,12 +102,8 @@ sistema:
 ```bash
 root@dev-core:~$ cat objetivos_2026.log
 
-[✔] Dominar arquiteturas de microsserviços escaláveis
-[✔] Contribuir para projetos open-source relevantes
 [▓▓▓▓▓▓▓▓░░] 80%  Aprofundar em IA generativa e LLMs
-[▓▓▓▓▓░░░░░] 50%  Construir um SaaS próprio do zero
 [▓▓▓░░░░░░░] 30%  Certificação em Cloud (AWS/GCP)
-[ ] Palestrar em uma conferência de tecnologia
 
 root@dev-core:~$ echo "Compilando futuro..." 
 > Compilando futuro... [OK]
